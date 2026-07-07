@@ -4,10 +4,10 @@ This webpage hosts resources for books developed from the past editions of Summe
 
 ## Books 
 
-An annotated collection of worksheets from the 2026 edition of the school is being turned into a book. The repository of R code for this book can be accessed from [here]().
+An annotated collection of worksheets from the 2026 edition of the school is being turned into a book. The repository of R code for this book can be accessed from [here](https://github.com/swmsbooks/SWMS2026).
 
 
-## Past editions of the Summer school 
+## Past editions of SWMS 
 
 **SWMS** is a summer school intended for women students entering their second year of undergraduate studies. Over a period of two weeks, the school aims to help the students gain broader exposure to problem solving skills in mathematics and statistics at the undergraduate level. SWMS is generously supported and hosted by [International Centre for Theoretical Sciences](https://www.icts.res.in), Bengaluru (a centre of the Tata Institute of Fundamental Research).
 
